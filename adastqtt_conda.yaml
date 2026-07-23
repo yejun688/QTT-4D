@@ -1,6 +1,0 @@
-name: putt
-channels:
-  - defaults
-dependencies:
-  - python=3.10.14
-prefix: /opt/conda/envs/adastqtt
